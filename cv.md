@@ -18,6 +18,7 @@ Core strengths
  - Ability to work efficiently both individually and in a team
  - Ability to work under pressure
  - Communicative skills
+ - Self-motivated
 
 Professional skills
 -------------------
