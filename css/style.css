@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: #07689f;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.name {
+    margin: 40px auto 100px auto;
+    width: 40%;
+    text-align: right;
+}
+.professional {
+    font-size: 1.6rem;
+    color: #d4f3ef;
+}
+.fullname {
+    font-weight: 700;
+    padding: 50px 0 40px 0;
+    font-size: 2rem;
+}
+.top-img {
+    width: 20%;
+    float: left;
+    border-radius: 100%;
+    box-shadow: 0 0 8px 0 #d4f3ef;
+}
+.strength {
+    margin: 30px auto 30px auto;
+    width: 40%;
+    text-align: left;
+}
+.skill {
+    margin: 30px auto 30px auto;
+    width: 40%;
+    text-align: right;
+}
+.language {
+    margin: 30px auto 30px auto;
+    width: 40%;
+    text-align: left;
+}
+.copyright {
+    padding: 10px 0;
+    font-size: 0.75rem;
+    color: #d4f3ef;
+}
+.contact-link {
+    padding: 20px 0;
+    font-size: 2rem;
+    color: #d4f3ef;
+}
