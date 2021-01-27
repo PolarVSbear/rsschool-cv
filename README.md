@@ -1,1 +1,1 @@
-https://PolarVSbear.github.io/rsschool-cv/cv
+https://polarvsbear.github.io/rsschool-cv/
